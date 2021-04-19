@@ -1,4 +1,4 @@
-#Write a function that when given an URL as a string, parses out just the domain name and 
+# Write a function that when given an URL as a string, parses out just the domain name and 
 # returns it as a string.
 
 def domain_name(url):

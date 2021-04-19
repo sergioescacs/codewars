@@ -13,6 +13,7 @@
 # zeroes are considered to be invalid solutions.
 #The board is always 9 cells by 9 cells, and every cell only contains integers from 0 to 9.
 
+#NOT FINISHED YET
 
 def valid_solution(board):
     
